@@ -2,7 +2,7 @@
 
 The first renderer uses Python's standard library and installed FFmpeg/ffprobe. It takes local audio, original illustrations, and an explicitly reviewed timeline. It does not search, generate music/art, upload, or post.
 
-Run from any directory:
+Run from the repository root; the private packet can be elsewhere:
 
 ```powershell
 python scripts/render_slideshow.py C:\path\to\private-packet\timeline.json
