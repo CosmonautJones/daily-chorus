@@ -1,0 +1,18 @@
+# Local authentication and private work
+.env
+.env.*
+!.env.example
+secrets/
+credentials/
+private/
+packets/
+outputs/
+
+# Audio, rendered video, and local tools
+*.mp3
+*.wav
+*.mp4
+node_modules/
+__pycache__/
+.DS_Store
+Thumbs.db
