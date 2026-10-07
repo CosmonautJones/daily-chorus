@@ -37,4 +37,6 @@ Use a shared chorus scene to bring the headlines together. Gentle pans, zooms, p
 | YouTube Shorts / X | 1080×1920, 9:16 MP4, strongest 20–30 second chorus passage, reframed art and captions |
 | Release notes | Story explanation, sources, artwork credits, AI-assisted music / AI-generated illustration disclosure |
 
-Scene timings, captions, rendering, and a complete audio/video playback check follow selection of the actual song. Human approval covers the final media and each destination before posting. This playbook specifies the treatment; a renderer has not yet been implemented.
+The default is a simple slideshow: one image per headline, a shared chorus scene, and gentle fades. Full lyric captions and generated motion are optional. The [local renderer](rendering.md) stitches actual selected audio and saved cue times into full and vertical previews without further model calls.
+
+Scene timings and a complete audio/video check follow selection of the actual song. Human approval covers the final media and each destination before posting. Technical decode checks do not establish listening quality or factual completeness of the sung lyrics.

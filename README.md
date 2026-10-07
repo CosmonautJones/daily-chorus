@@ -80,7 +80,7 @@ The video plan supports a full YouTube song plus a 20–30 second vertical choru
 - **X:** [@DailyChorusSong](https://x.com/DailyChorusSong)
 - A daily draft-generation workflow using the existing Suno Pro account, with review before release.
 
-This repository contains the pilot's editorial workflow, brand asset, and packet template. The current scheduler runs in Codex on the creator's computer; a standalone runner and video renderer are future implementation work. Draft generation still depends on an available signed-in browser and can require human verification.
+This repository contains the pilot's editorial workflow, brand asset, packet template, [compact songwriting guide](docs/songwriting.md), and [local slideshow renderer](docs/rendering.md). The current scheduler runs in Codex on the creator's computer; a standalone runner remains future work. Draft generation still depends on an available signed-in browser and can require human verification.
 
 ## Take part
 

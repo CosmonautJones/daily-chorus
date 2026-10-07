@@ -34,7 +34,7 @@ Each of the two or three headlines gets its own verse or short section. Use a ch
 
 Humor can fit an absurd event or a fictional illustration. Treat victims, grief, and serious human suffering respectfully. Avoid fabricated quotes, unsupported accusations, partisan campaigning, or copied article prose and lyrics.
 
-Prepare a dated private packet using the [template](packet-template.md): title, story slate, source comparison, genre decision, original lyrics, style prompt, Behind the song notes, release copy, and [visual storyboard](visuals.md). Record the chosen stories and tags in the daily state so subsequent runs can track variety.
+Prepare a dated private packet using the [template](packet-template.md): title, story slate, source comparison, genre decision, original lyrics, style prompt, Behind the song notes, release copy, and [visual storyboard](visuals.md). Use the [compact songwriting guide](songwriting.md) for one writing pass and one focused check before Create. Record the chosen stories and tags in the daily state so subsequent runs can track variety.
 
 ## 5. Generate drafts once
 
@@ -60,7 +60,7 @@ Notify on new completed drafts, a new failure, or required user action. Keep rep
 
 ## Current execution
 
-The pilot's current scheduler is a Codex heartbeat on the creator's computer, scheduled daily at 9 AM Eastern. It reads a local operational workflow and uses the signed-in browser. A standalone service, direct Suno API integration, automated media renderer, and automatic publishing are not implemented in this repository.
+The pilot's current scheduler is a Codex heartbeat on the creator's computer, scheduled daily at 9 AM Eastern. It reads a local operational workflow and uses the signed-in browser. A [local slideshow renderer](rendering.md) is implemented for selected audio and saved cue times. A standalone service, direct Suno API integration, and automatic publishing are not implemented in this repository.
 
 ## Methodology reference
 
