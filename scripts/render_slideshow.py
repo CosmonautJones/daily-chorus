@@ -89,4 +89,3 @@ clip_lyrics = [{"start": max(0, line["start"] - clip["start"]), "end": min(clip_
 captions(output / "vertical.ass", (1080, 1920), spec["title"], clip_length, [{"start": 0, "end": clip_length, "label": "MAKE ROOM FOR TOMORROW"}], clip_lyrics)
 run(["ffmpeg", "-nostdin", "-v", "error", "-y", "-loop", "1", "-framerate", "24", "-i", str(root / clip["image"]), "-ss", str(clip["start"]), "-i", str(root / spec["audio"]), "-vf", "scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,setsar=1,subtitles=vertical.ass,fade=t=in:st=0:d=0.3", "-t", str(clip_length), "-c:v", "libx264", "-preset", "veryfast", "-crf", "20", "-pix_fmt", "yuv420p", "-c:a", "aac", "-b:a", "192k", "-af", "afade=t=in:st=0:d=0.15,afade=t=out:st="+str(clip_length-0.4)+":d=0.4", "-movflags", "+faststart", "make-room-vertical.mp4"])
 print("Full and vertical previews ready", flush=True)
-

@@ -29,4 +29,3 @@ Load this page during songwriting. The longer community skill files are optional
 - Community craft sources: [Bitwize lyric-writer](https://github.com/bitwize-music-studio/claude-ai-music-skills/blob/main/skills/lyric-writer/SKILL.md) and [suno-engineer](https://github.com/bitwize-music-studio/claude-ai-music-skills/blob/main/skills/suno-engineer/SKILL.md). GitHub API showed 537 repository stars; skills directory showed roughly 400 installs each. Reviewed as useful guidance, not installed as a full suite or treated as official Suno specifications.
 - [Suno v6 FAQ](https://help.suno.com/en/articles/13924481): Variety changes style prompts; zero retains control, and Max Mode costs more credits.
 - [Suno Custom mode](https://help.suno.com/en/articles/3726721): separate custom lyrics, styles, advanced options, and title.
-
