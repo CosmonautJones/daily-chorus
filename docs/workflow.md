@@ -46,6 +46,8 @@ Completion requires actual song-page links, a completed status, duration when sh
 
 ## 6. Illustrate after selection
 
+Default to the second completed version from each normal Suno request, per the creator's October 7 preference. Save both links and record the selected song ID. This selection preference does not authorize future publication.
+
 Prepare scene concepts with the packet. After a song version is selected and its download entitlement confirmed, obtain the authorized audio and produce original artwork or use images with confirmed reuse rights. Time scenes and lyric captions to the actual audio; a written storyboard is not a rendered video.
 
 Prepare a 1920×1080 full YouTube video and a 1080×1920, 20–30 second chorus cut for Shorts/X when those releases are requested. See [visuals.md](visuals.md) for composition, attribution, and disclosure rules.

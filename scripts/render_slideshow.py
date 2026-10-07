@@ -40,7 +40,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
         text = text.replace("\n", r"\N").replace("{", "").replace("}", "")
         events.append(f"Dialogue: 0,{ass_time(start)},{ass_time(end)},{style},,0,0,0,,{text}")
     event(0, duration, "Brand", "DAILY CHORUS / " + title)
-    event(0, duration, "Disclosure", "AI music + original AI illustrations / REVIEW PREVIEW")
+    event(0, duration, "Disclosure", "AI music + original AI illustrations")
     for scene in scenes:
         event(scene["start"] + 0.5, min(scene["end"], scene["start"] + 5.5), "Topic", scene["label"])
     for lyric in lyrics:

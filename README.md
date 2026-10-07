@@ -14,6 +14,8 @@
 
 The news changes every day. So should its soundtrack.
 
+**First release:** [Make Room — October 7, 2026](https://www.youtube.com/watch?v=vL0DfKhy91k). Three headlines, one pop-punk song, and original illustrated scenes.
+
 **Daily Chorus** turns two or three current headlines into an original song: a small daily medley with a big hook. Good news, bad news, scary news, funny news; stories from around the world and closer to home. Original lyrics, AI-assisted music, and illustrated scenes connect the reporting to the feeling of the day.
 
 A scientific breakthrough might become bright pop. A strange local headline might become a rap verse. A tense world story might find its way into a driving electronic chorus. Those are creative possibilities, not claims about real events.
