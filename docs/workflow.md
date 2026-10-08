@@ -24,7 +24,9 @@ Use neutral factual language. Claims receive weight according to their evidence,
 
 A closed, verified listener poll targeting today's song takes priority. Record its URL, totals, and selected genre. Explain a tie-breaking choice. An unavailable poll or zero votes triggers an editorial choice.
 
-Otherwise rotate from rap, techno, pop, K-pop inspired pop, pop-punk, rock, metal, house, drum and bass, hyperpop, Afrobeats, Latin pop, soul, or acoustic. Avoid the previous day's primary genre when the mood permits. Check recent credible music reporting or charts before calling a sound current or trending; record the supporting link and date. The genre pool remains usable when trend evidence is unavailable.
+Otherwise rotate from rap (including crunk), country, techno, pop, K-pop inspired pop, pop-punk, rock, metal, house, drum and bass, hyperpop, Afrobeats, Latin pop, soul, R&B, funk, disco, reggae, jazz, or acoustic. Explore other genres when they fit. Avoid the previous day's primary genre when the mood permits. Check recent credible music reporting or charts before calling a sound current or trending; record the supporting link and date. The genre pool remains usable when trend evidence is unavailable.
+
+Give crunk rap and country early turns in the upcoming rotation, per the creator's October 7 request, unless a verified poll or the story's mood calls for something else. Crunk prompts should emphasize a head-bouncing groove, heavy bass, punchy drums, chantable hooks, and clear rhythmic vocals. Country prompts should emphasize a strong storytelling hook, acoustic guitar, steel or fiddle accents, and a warm vocal. Keep one coherent primary sound per song.
 
 Record the genre, its relationship to the day's mood, and whether the choice came from listeners, rotation, or a verified trend. Describe musical qualities in the Suno prompt, including rhythm, instrumentation, energy, and vocal delivery. English is the starting language. Avoid artist or voice impersonation.
 
