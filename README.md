@@ -38,6 +38,8 @@ flowchart LR
 
 Each headline gets a verse or a short section. The chorus captures the shared mood. A release comes with **Behind the song** notes so listeners can trace the stories, sources, and creative choices.
 
+The [Daily Chorus Lyricist](skills/daily-chorus-lyricist/SKILL.md) shapes hooks and genre-specific phrasing. One independent lyric-editor pass checks rhythm, imagery, story progression, and factual boundaries before Suno generation; actual audio still gets human review.
+
 ## A wider news diet
 
 | Dimension | What we look for |

@@ -1,6 +1,6 @@
 # Daily Chorus — YYYY-MM-DD
 
-Status: prepared / generating / submission_unknown / awaiting_review / ready_for_media_review.
+Status: prepared / needs_lyrics / generating / submission_unknown / awaiting_review / ready_for_media_review.
 
 ## Today's medley
 
@@ -42,6 +42,15 @@ Original section-labeled lyrics:
 Style prompt:
 
 Draft title includes Daily Chorus YYYY-MM-DD:
+
+## Lyric craft review
+
+- Two hook candidates and selection reason:
+- Reviewer: independent lyric-editor agent / explicitly labeled parent fallback.
+- Hook / prosody / specificity / arc / genre fit: 0–2 each, with concrete reasons.
+- Necessary edits applied and factual check of changed lines:
+- Text gate: at least 8/10, no zero, no factual/originality/respect blocker; ready / needs_lyrics.
+- Review file: lyric-review.md. Generated audio still requires listening review.
 
 ## Generation evidence
 

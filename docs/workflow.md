@@ -36,7 +36,7 @@ Each of the two or three headlines gets its own verse or short section. Use a ch
 
 Humor can fit an absurd event or a fictional illustration. Treat victims, grief, and serious human suffering respectfully. Avoid fabricated quotes, unsupported accusations, partisan campaigning, or copied article prose and lyrics.
 
-Prepare a dated private packet using the [template](packet-template.md): title, story slate, source comparison, genre decision, original lyrics, style prompt, Behind the song notes, release copy, and [visual storyboard](visuals.md). Use the [compact songwriting guide](songwriting.md) for one writing pass and one focused check before Create. Record the chosen stories and tags in the daily state so subsequent runs can track variety.
+Prepare a dated private packet using the [template](packet-template.md): title, story slate, source comparison, genre decision, original lyrics, style prompt, Behind the song notes, release copy, and [visual storyboard](visuals.md). Use the [compact songwriting guide](songwriting.md) and [Daily Chorus Lyricist skill](../skills/daily-chorus-lyricist/SKILL.md) for one writer pass and one independent editor pass before Create. Save the concrete lyric review and stop as `needs_lyrics` if its text gate or factual checks remain unresolved. Record the chosen stories and tags in the daily state so subsequent runs can track variety.
 
 ## 5. Generate drafts once
 

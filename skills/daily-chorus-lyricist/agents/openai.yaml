@@ -1,0 +1,6 @@
+interface:
+  display_name: "Daily Chorus Lyricist"
+  short_description: "Write memorable medleys; edit hooks, rhythm, and facts"
+  default_prompt: "Use $daily-chorus-lyricist to write or review a Daily Chorus medley from verified story briefs and the chosen genre."
+policy:
+  allow_implicit_invocation: true
