@@ -58,6 +58,8 @@ Prepare a 1920×1080 full YouTube video and a 1080×1920, 20–30 second chorus 
 
 The creator approves the specific song, finished video, caption, and destination. Include story-specific context, article links where supported, image credits, and AI-use disclosure. YouTube and X profiles link to each other for listeners to find the wider conversation.
 
+Full-song YouTube descriptions include every supporting article's complete URL with newsroom/wire attribution and story labels, followed by the entire original lyric sheet, including repeated sections. Copy from the canonical packet files, not shortened browser labels or pronunciation spellings. Do not replace sources or lyrics with ellipses. Check the actual description limit and shorten the introduction first; flag a limit before publication if complete content cannot fit. Reopen the saved Studio description and compare the full text, source URLs, and final lyric line with the prepared file. Also verify lyrics in the expanded public description. YouTube may shorten displayed link labels while retaining complete URLs; clickable external links can require channel verification.
+
 Propose four next-day poll choices from the genre pool, rotating options instead of repeating a fixed ballot. A published poll targets an 8 AM Eastern close before the 9 AM draft run. Topic suggestions can shape the slate, but every selected headline still needs verification. Posts, polls, uploads, and distribution remain separate approved actions.
 
 Notify on new completed drafts, a new failure, or required user action. Keep repeated unchanged review/blocker checks quiet.
