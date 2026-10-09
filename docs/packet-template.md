@@ -26,6 +26,7 @@ Repeat this block for each included headline:
 - Differences in framing or omissions observed in the articles:
 - Outlet rating, provider, checked date, and link, or unknown:
 - Lyric connection and explanation of fictional imagery:
+- Essential facts actually sung, mapped to lyric lines:
 
 ## Sound
 
@@ -49,7 +50,8 @@ Draft title includes Daily Chorus YYYY-MM-DD:
 - Reviewer: independent lyric-editor agent / explicitly labeled parent fallback.
 - Hook / prosody / specificity / arc / genre fit: 0–2 each, with concrete reasons.
 - Necessary edits applied and factual check of changed lines:
-- Text gate: at least 8/10, no zero, no factual/originality/respect blocker; ready / needs_lyrics.
+- Lyrics-only factual takeaway for each story and any comprehension gaps:
+- Text gate: every story passes comprehension, at least 8/10, no zero, no factual/originality/respect blocker or unresolved verification question; ready / needs_lyrics.
 - Review file: lyric-review.md. Generated audio still requires listening review.
 
 ## Generation evidence
