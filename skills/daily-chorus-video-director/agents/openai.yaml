@@ -1,0 +1,4 @@
+interface:
+  display_name: "Daily Chorus Video Director"
+  short_description: "Story-driven edits for Daily Chorus music videos"
+  default_prompt: "Use $daily-chorus-video-director to plan and render a story-driven music video for the selected Daily Chorus song."

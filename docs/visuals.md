@@ -37,6 +37,6 @@ Use a shared chorus scene to bring the headlines together. Gentle pans, zooms, p
 | YouTube Shorts / X | 1080×1920, 9:16 MP4, strongest 20–30 second chorus passage, reframed art and captions |
 | Release notes | Story explanation, sources, artwork credits, AI-assisted music / AI-generated illustration disclosure |
 
-The default is a simple slideshow: one image per headline, a shared chorus scene, and gentle fades. Full lyric captions and generated motion are optional. The [local renderer](rendering.md) stitches actual selected audio and saved cue times into full and vertical previews without further model calls.
+The preferred direction is a directed illustrated music video: a recurring character or object develops through the verses and choruses, with varied framing, layered motion and purposeful transitions. The October 14 “Bass Up, Bills Down” pilot established this approach. Use the [video-director skill](../skills/daily-chorus-video-director/SKILL.md) and its evidence-based editing reference. A simple slideshow remains a fallback. The [local renderer](rendering.md) can stitch actual selected audio and saved cue times without further model calls; align each take separately.
 
 Scene timings and a complete audio/video check follow selection of the actual song. Human approval covers the final media and each destination before posting. Technical decode checks do not establish listening quality or factual completeness of the sung lyrics.

@@ -12,4 +12,4 @@ Use the [Daily Chorus Lyricist skill](../skills/daily-chorus-lyricist/SKILL.md) 
 
 Written quality review cannot establish melody, delivery, intelligibility, or actual sound. Listening review of generated audio remains pending until performed. A critique of an existing generated song may create a separate revision proposal; it must not replace the lyric sheet belonging to that audio.
 
-Rendering still uses local code and one original image per story with gentle fades. No model call per frame is needed. Longer community skills remain optional for a specific unresolved issue; they are not loaded every day.
+Rendering uses local code and the [video-director skill](../skills/daily-chorus-video-director/SKILL.md) for recurring visual stories, varied shots and layered motion. No model call per frame is needed. Longer community skills remain optional for a specific unresolved issue; they are not loaded every day.
