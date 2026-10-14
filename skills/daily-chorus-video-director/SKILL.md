@@ -21,6 +21,10 @@ Use original art or verified reuse rights. Generate only useful scenes and trans
 
 Animate cameras and separate foreground elements. Add motivated environmental motion and restrained audio response. Choose transitions for a visual connection: circular match, paper wipe, doorway reveal, contrasting split screen or clean cut. Avoid indiscriminate effects and rapid flashing.
 
+When the story needs acting, use reference-guided generated video for clear physical actions. Camera moves and bouncing cutouts alone do not satisfy that requirement. Test one short scene before scaling: inspect body/hand movement, prop continuity, identity, style and usable edit points. Use confirmed included subscription quota; consumer plans do not establish API entitlement. Reconcile each submission before retrying.
+
+Design clean shot-specific keyframes: clear anatomy, one coherent set, unobstructed props and one primary action. Split complex hand-offs into separate shots. Reject invented furniture, fused hands, changing props or identity drift even when movement looks lively. Keep each news verse informative with precise locally composed context cards; let the shared chorus carry crunk energy without turning wishes, allegations or warnings into facts.
+
 Let full-bleed scenes occupy the frame. Keep persistent branding small; reserve large typography for deliberate title moments. Make lyrics readable against a controlled background. Date news inserts, qualify allegations and identify symbolic AI imagery. Topic cards cannot repair lyrics that fail to explain the news.
 
 For the proven pilot and local production details, read [references/local-editing.md](references/local-editing.md). Render from a deterministic local timeline with no model call per frame. Do not switch to another paid provider merely because a motion skill is available.
