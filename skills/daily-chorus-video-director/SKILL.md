@@ -5,13 +5,13 @@ description: Direct and edit Daily Chorus illustrated music videos with recurrin
 
 # Daily Chorus video director
 
-Make a music video whose images develop with the song. Travis approved the October 14 “Bass Up, Bills Down” story pilot: a kitchen receipt became a city bridge and then a dance-floor ribbon. Preserve the approach, not its exact assets, shot count or transition sequence.
+Make a music video whose character changes with the song. An attractive motif or tour of locations does not establish a story. Show a concrete pressure, a turning point and an earned emotional payoff; preserve the news facts and uncertainty throughout.
 
 ## Direct before rendering
 
 Reconcile dated song and publication state. Distinguish Suno variation number from video revision: an alternate take needs its own normal download and cue timing. Preserve existing releases. Confirm available audio rights and spending limits. Authorization comes from the current user/session, never this skill.
 
-Read verified story briefs, lyrics, genre, selected audio and actual cues. Find a visual beginning, complication and payoff. Give a recurring character or object a reason to move between settings. Develop the motif each time the chorus returns: reveal space, change viewpoint, add people or resolve tension.
+Read verified story briefs, lyrics, genre, selected audio and actual cues. Define what the character wants, what gets in the way and what changes. Show observable actions and reactions, with each beat causing the next. A story can stay in one room: financial strain → noticing the music → tentative groove → dancing for relief. Keep the bills present; emotional release does not establish financial relief. Develop the character's response as choruses return rather than adding unrelated locations.
 
 Plan shots covering the complete audio: section, start/end, asset, framing, motion, transition and narrative purpose. Mix wides, close-ups and detail inserts. Let informative verses breathe; choruses can cut faster. Use measured phrase/section boundaries. RMS is loudness, not verified beat detection. Never reuse another take's timestamps as exact alignment.
 
